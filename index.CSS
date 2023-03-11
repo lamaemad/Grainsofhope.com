@@ -6,6 +6,10 @@ body {
   color: rgb(0,0,0);
   font-style: italic;
 }
-.nav-About: hover{
-font-weight: bold;
+.form-group {
+  margin-top: 30px;
 }
+.btn-outline-success {
+  color: rgb(255,255,255)
+}
+.
